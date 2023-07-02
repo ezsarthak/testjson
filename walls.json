@@ -1,8 +1,1 @@
-[
-  {
-    "name": "6",
-		"author": "Unsplash",
-		"url": "https://images.unsplash.com/photo-1511677254207-d2db235ccfe1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
-		"collections": "Unknown"
-  }
-]
+[{"imagePath":"path/to/image1.jpg","description":"Image 1"},{"description":"cgh","imagePath":"https://raw.githubusercontent.com/SarthakDesigns/admintest/main/8233.jpg"},{"description":"vsjslns","imagePath":"https://raw.githubusercontent.com/SarthakDesigns/admintest/main/1042.jpg"},{"name":"Thor","author":"Unknown ","url":"https://raw.githubusercontent.com/SarthakDesigns/testjson/main/5604.jpg","collections":"Marvel"}]
